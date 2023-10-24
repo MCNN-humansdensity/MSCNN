@@ -20,7 +20,6 @@ A Python 3 and Keras 2 implementation of MSCNN for people countingand provide tr
 
 **data**
 
-[Mall Dataset crowd counting dataset](http://personal.ie.cuhk.edu.hk/~ccloy/downloads_mall_dataset.html)
 
 Generate density_map from data:
 
@@ -48,8 +47,4 @@ pred count:27
 	  journal={2017 IEEE International Conference on Image Processing (ICIP)},
 	  year={2017}
 	}
-
-
-## Copyright
-See [LICENSE](LICENSE) for details.
  
